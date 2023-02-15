@@ -10,7 +10,8 @@
 9-duplicate_last_line duplicates last line of file iacta
 10_no_more_js deletes of js files in a directory
 11_directories counts all directories within current directory
-12-newest_files
-13-unique
-14-findthatword
-15-countthatword
+12-newest_files fids and displays newest files
+13-unique  finds a uique pattern
+14-findthatword looks for a word
+15-countthatword counts words
+16-whatsnext shows finds words and ensuing lines
