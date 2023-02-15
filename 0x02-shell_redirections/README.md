@@ -7,3 +7,4 @@
 6third_line outputs third line of iacta
 7-file creates a file with conten
 8-cwd_state writes a command into ls_cwd_content
+9-duplicate_last_line duplicates last line of file iacta
