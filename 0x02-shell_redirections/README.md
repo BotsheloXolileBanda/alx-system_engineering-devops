@@ -5,3 +5,4 @@
 4-laslines prints 10 last lines of /etc/passwd
 5-firstlines prints 10 first lines of /etc/passwd
 6third_line outputs third line of iacta
+7-file creates a file with content
