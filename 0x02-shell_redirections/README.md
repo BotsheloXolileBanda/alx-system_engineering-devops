@@ -19,3 +19,4 @@
 18-lettersonly displays files starting with capital letters
 19-AZ replaces A and Z with c and e
 20-hiago removes all c letters
+21-reverse reverses the input
