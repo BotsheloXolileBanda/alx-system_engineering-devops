@@ -17,3 +17,4 @@
 16-whatsnext shows finds words and ensuing lines
 17-hidethisword displays all lines without bin using -v option and grep command
 18-lettersonly displays files starting with capital letters
+19-AZ replaces A and Z with c and e
