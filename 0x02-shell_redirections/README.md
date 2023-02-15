@@ -8,3 +8,4 @@
 7-file creates a file with conten
 8-cwd_state writes a command into ls_cwd_content
 9-duplicate_last_line duplicates last line of file iacta
+10_no_more_js deletes of js files in a directory
