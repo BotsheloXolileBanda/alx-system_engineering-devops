@@ -3,3 +3,4 @@
 2-path adds folder to path
 3-pathcounts nr of directories in PATH
 4-global+variables list all environment variables
+5-local_variables prints all variables
