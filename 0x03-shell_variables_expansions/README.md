@@ -4,3 +4,4 @@
 3-pathcounts nr of directories in PATH
 4-global+variables list all environment variables
 5-local_variables prints all variables
+6-create_Local_variable creates a local variable
