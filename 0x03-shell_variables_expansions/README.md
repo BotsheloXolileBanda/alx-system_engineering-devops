@@ -10,4 +10,5 @@
 9-divide_and_rule performs an arithmetic operation
 10-love_exponent_breath performs an arithmetic operation
 11-binary_to_decimal converts a base number to another
-12-combinations prints all combinations from a to z
+12-combinations prints all combinations from a to zi
+13-print_float prints a number
