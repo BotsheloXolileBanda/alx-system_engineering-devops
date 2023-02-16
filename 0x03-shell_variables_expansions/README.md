@@ -7,3 +7,4 @@
 6-create_Local_variable creates a local variable
 7-create_global_variable creates a global variable
 8-trueknowledge adds 128 to a global variable
+9-divide_and_rule performs an arithmetic operation
