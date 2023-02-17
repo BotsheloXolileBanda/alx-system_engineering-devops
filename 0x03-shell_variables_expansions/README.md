@@ -12,3 +12,4 @@
 11-binary_to_decimal converts a base number to another
 12-combinations prints all combinations from a to zi
 13-print_float prints a number
+100-decimal_to_hexadecimal converts a base 10 nr to a hexadecimal
