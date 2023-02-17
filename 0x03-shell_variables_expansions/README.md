@@ -14,3 +14,4 @@
 13-print_float prints a number
 100-decimal_to_hexadecimal converts a base 10 nr to a hexadecimal
 101-rot13 encrypts and dycripts text
+102-odd prints lines
