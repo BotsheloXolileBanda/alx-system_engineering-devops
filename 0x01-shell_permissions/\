@@ -13,6 +13,3 @@
 11-directories_permissions: Changes directory rights
 12-directory_permissions: Changes directory permissions
 13-change_group: Changes group permission
-100-change_owner_and_group: Changes owners and groups
-101-symbolic_link_permissions: Changes symbolic link rights
-103-star_wars: Plays start wars in the terminal
